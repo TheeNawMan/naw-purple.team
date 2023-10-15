@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "d0a8ab44bdd6553b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bcbb49f98fe2b57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58660c8d57fc0359",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9999_Key_Terms/Active Directory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6293aea2ccc5628a",
+    "type": "split",
+    "children": [
+      {
+        "id": "15f4c87649c7bc5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5accb35c2ed6c305",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "877f0229370ad236",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c7014800d15d7320",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "19d9310731afea05",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ed87312f91c4497",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "751b352b04ea5aa5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "9999_Key_Terms/Active Directory.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d37156150eb905ed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "9999_Key_Terms/Active Directory.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "36dce2021bfa1c23",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "015003308d3574a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "9999_Key_Terms/Active Directory.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "58660c8d57fc0359",
+  "lastOpenFiles": [
+    "9999_Key_Terms/DNS.md",
+    "9999_Key_Terms/Active Directory.md",
+    "9999_Key_Terms/DHCP.md",
+    "9999_Key_Terms"
+  ]
+}
